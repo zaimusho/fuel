@@ -16,6 +16,7 @@
 .. image:: https://img.shields.io/badge/license-MIT-blue.svg
    :target: https://github.com/mila-udem/fuel/blob/master/LICENSE
 
+
 Fuel
 ====
 
